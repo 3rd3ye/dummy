@@ -1,0 +1,5 @@
+{
+    "boot_order": ["HDD", "USB", "Network"],
+    "secure_boot": true
+    
+}
